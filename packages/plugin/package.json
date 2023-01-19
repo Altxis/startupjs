@@ -1,6 +1,6 @@
 {
   "name": "@startupjs/plugin",
-  "version": "0.45.4",
+  "version": "0.50.5",
   "type": "module",
   "engines": {
     "node": ">= 14"
